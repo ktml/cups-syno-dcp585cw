@@ -1,5 +1,5 @@
-# trefex/cups-syno-hl3070cw
-CUPS Synology container with driver for Brother HL-3070CW pre-installed based on quadportnick/cups-airprint. This CentOS 7 based image runs a CUPS instance that is meant as an AirPrint relay for printers that are already on the network but not AirPrint capable. 
+# trefex/cups-syno-dcp585cw
+CUPS Synology container with driver for Brother DCP-585CW pre-installed based on quadportnick/cups-airprint. This CentOS 7 based image runs a CUPS instance that is meant as an AirPrint relay for printers that are already on the network but not AirPrint capable. 
 
 Note: This works only on Synology DSM NAS devices, as we use the avahi daemon from the NAS.
 
